@@ -1,2 +1,2 @@
-#Portfolio Website with Chatbot Integration.
-##This project is a personal portfolio website built using React.js and TailwindCSS. The website includes sections for "Home," "About," "Skills," "Resume," and "Contact," along with an interactive chatbot that answers questions about the user's resume, skills, work experience, and projects. The chatbot is integrated using a custom API call to interact with a fine-tuned LLM model.
+# Portfolio Website with Chatbot Integration.
+## This project is a personal portfolio website built using React.js and TailwindCSS. The website includes sections for "Home," "About," "Skills," "Resume," and "Contact," along with an interactive chatbot that answers questions about the user's resume, skills, work experience, and projects. The chatbot is integrated using a custom API call to interact with a fine-tuned LLM model.
